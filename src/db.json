@@ -1,0 +1,169 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Corolla",
+      "type": "Sedan",
+      "location": "New York",
+      "price": "$15,000",
+      "miles": "50,000",
+      "stock": "#12345",
+      "year": "2018"
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Civic",
+      "type": "Sedan",
+      "location": "Los Angeles",
+      "price": "$12,000",
+      "miles": "60,000",
+      "stock": "#23456",
+      "year": "2017"
+    },
+    {
+      "id": 3,
+      "make": "Toyota",
+      "model": "Camry",
+      "type": "Sedan",
+      "location": "New York",
+      "price": "$18,000",
+      "miles": "40,000",
+      "stock": "#34567",
+      "year": "2019"
+    },
+    {
+      "id": 4,
+      "make": "Nissan",
+      "model": "Altima",
+      "type": "Sedan",
+      "location": "Chicago",
+      "price": "$14,000",
+      "miles": "55,000",
+      "stock": "#45678",
+      "year": "2016"
+    },
+    {
+      "id": 5,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "type": "Hatchback",
+      "location": "Houston",
+      "price": "$10,000",
+      "miles": "70,000",
+      "stock": "#56789",
+      "year": "2015"
+    },
+    {
+      "id": 6,
+      "make": "Honda",
+      "model": "Pilot",
+      "type": "SUV",
+      "location": "Boston",
+      "price": "$19,000",
+      "miles": "30,000",
+      "stock": "#67890",
+      "year": "2009"
+    },
+    {
+      "id": 7,
+      "make": "Nissan",
+      "model": "Sentra",
+      "type": "Sedan",
+      "location": "New York",
+      "price": "$12,000",
+      "miles": "70,000",
+      "stock": "78910",
+      "year": "2016"
+    },
+    {
+      "id": 8,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "type": "Hatchback",
+      "location": "Houston",
+      "price": "$24,000",
+      "miles": "37,000",
+      "stock": "#89102",
+      "year": "2001"
+    },
+    {
+      "id": 9,
+      "make": "Toyota",
+      "model": "Corolla",
+      "type": "Sedan",
+      "location": "Chicago",
+      "price": "$25,000",
+      "miles": "21,000",
+      "stock": "#98765",
+      "year": "2018"
+    },
+    {
+      "id": 10,
+      "make": "Nissan",
+      "model": "Altima",
+      "type": "Sedan",
+      "location": "Boston",
+      "price": "$26,000",
+      "miles": "31,000",
+      "stock": "#21365",
+      "year": "2019"
+    },
+    {
+      "id": 11,
+      "make": "Toyota",
+      "model": "Camry",
+      "type": "Sedan",
+      "location": "New York",
+      "price": "$30,000",
+      "miles": "10,000",
+      "stock": "#31543",
+      "year": "2016"
+    },
+    {
+      "id": 12,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "type": "Hatchback",
+      "location": "Chicago",
+      "price": "$15,000",
+      "miles": "89,000",
+      "stock": "#59302",
+      "year": "2011"
+    },
+    {
+      "id": 13,
+      "make": "Nissan",
+      "model": "Rogue",
+      "type": "SUV",
+      "location": "Boston",
+      "price": "$32,000",
+      "miles": "2,100",
+      "stock": "#45095",
+      "year": "2022"
+    },
+    {
+      "id": 14,
+      "make": "Toyota",
+      "model": "Corolla",
+      "type": "Sedan",
+      "location": "New York",
+      "price": "$19,000",
+      "miles": "32,000",
+      "stock": "#74950",
+      "year": "2020"
+    },
+    {
+      "id": 15,
+      "make": "Nissan",
+      "model": "Altima",
+      "type": "Sedan",
+      "location": "Houston",
+      "price": "$23,500",
+      "miles": "8,200",
+      "stock": "#84703",
+      "year": "2019"
+    }
+  ]
+}
